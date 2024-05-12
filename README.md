@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://www.flaticon.es/icono-gratis/informatica_4260900?term=inform%C3%A1tico&page=1&position=1&origin=search&related_id=4260900)" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+# <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430]" width="30"/> I AM NICO! 
 *Computer Engineering in Information Technologies Student*
 <br /> 
 
