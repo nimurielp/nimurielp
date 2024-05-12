@@ -6,7 +6,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering in Information Technologies at University of Extremadura .\
 🌱 &nbsp;I'm on track for learning more about React, NodeJs.\
