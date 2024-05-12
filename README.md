@@ -10,7 +10,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering in Information Technologies at University of Extremadura .\
 🌱 &nbsp;I'm on track for learning more about React, NodeJs.\
 ✍️ &nbsp;In my free time, I play on a basketball team.\
-✉️ &nbsp;You can shoot me an email at nmurielpalma@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at nmurielpalma@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
