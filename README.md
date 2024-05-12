@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="[https://www.flaticon.es/icono-animado-gratis/mano_15179535?term=saludo&page=1&position=5&origin=search&related_id=15179535]" width="30"/> I AM NICO! 
+# <img src="https://www.flaticon.es/icono-animado-gratis/mano_15179535?term=saludo&page=1&position=5&origin=search&related_id=15179535" width="30"/> I AM NICO! 
 *Computer Engineering in Information Technologies Student*
 <br /> 
 
