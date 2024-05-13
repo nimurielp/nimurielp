@@ -39,4 +39,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
+### 🤝🏻 &nbsp;Connect with Me
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nmurielpalma/"><img src="https://img.shields.io/badge/-Nicolás%20Muriel%20Palma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nmurielpalma@gmail.com"><img src="https://img.shields.io/badge/-Nicolás Muriel Palma-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 
