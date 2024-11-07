@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering in Information Technologies at University of Extremadura .\
-🌱 &nbsp;I'm on track for learning more about React, NodeJs.\
+🌱 &nbsp;I'm on track for learning more about **Kotlin** and **Development of programs for Android**.\
 ✍️ &nbsp;In my free time, I play on a basketball team.\
 ✉️ &nbsp;You can shoot me an email at nmurielpalma@gmail.com! I'll try to respond as soon as I can.
 
@@ -17,6 +17,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
